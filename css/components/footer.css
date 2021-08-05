@@ -1,0 +1,34 @@
+ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  ul > li {
+    display: inline-block;
+  }
+  
+  .social-icon {
+    font-size: 40px;
+    color:white;
+    margin-right: 8px;
+  }
+  
+  .social-icon:hover {
+    font-weight: bold;
+  }
+
+  .socials {
+      text-align: center;
+  }
+
+  .footer {
+      background-color: darkgrey;
+      background-size: cover;
+      padding: 50px;
+  }
+
+  .write {
+      color: rgba(255, 225, 230, 0.521);
+      font-size: small;
+      text-align: center;
+  }
